@@ -1,0 +1,7 @@
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\obj\Debug\TicTacToeCSharp.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\obj\Debug\TicTacToeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\bin\Debug\TicTacToeCSharp.exe.config
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\bin\Debug\TicTacToeCSharp.exe
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\bin\Debug\TicTacToeCSharp.pdb
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\obj\Debug\TicTacToeCSharp.exe
+C:\Users\Pichau\Desktop\C# Estudos\TicTacToeCSharp\TicTacToeCSharp\obj\Debug\TicTacToeCSharp.pdb
